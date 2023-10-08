@@ -10,7 +10,7 @@ type Props = IButtonProps & {
 export function Filter({ title, isActive = false, type, ...rest }: Props) {
   const { colors } = useTheme();
   const colorType =
-    type === "opened" ? colors.secondary[700] : colors.green[500];
+    type === "opened" ? colors.secondary[700] : colors.green[300];
 
   return (
     <Button
