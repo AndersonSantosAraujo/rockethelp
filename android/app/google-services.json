@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95330863196",
+    "project_id": "rockethelp-6d155",
+    "storage_bucket": "rockethelp-6d155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95330863196:android:1d629be7a0e18eea08be99",
+        "android_client_info": {
+          "package_name": "com.nosredna.rockethelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYDremgsru50nFn2kdUJoccxFFAyza9m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

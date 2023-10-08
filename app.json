@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "rockethelp",
+    "slug": "rockethelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.nosredna.rockethelp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.nosredna.rockethelp",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a972f02b-2324-4a42-b9c2-c73271ecb214"
+      }
+    }
+  }
+}
